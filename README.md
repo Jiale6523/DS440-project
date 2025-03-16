@@ -12,7 +12,7 @@ Created by: : Jovial Niyogisubizo
 
 jovialniyo93@gmail.com
   
-https://github.com/jovialniyo93/red_wine_quality_prediction
+Github Link: https://github.com/jovialniyo93/red_wine_quality_prediction
 "
 
     
