@@ -5,13 +5,13 @@ We designed the front-end and back-end based on this model. The project includes
 Make sure you have JavaScript-related components in your environment before use.
 
 Please follow the steps below to start
-1. Activate the backend
+1. Activate the backend  
   cd .\backend\
-  pip install -r requirements.txt
-  python app.py
+    pip install -r requirements.txt  
+    python app.py
 
-2. Activate the frontend
-  cd frontend
-  npm install web-vitals
-  npm install @mui/material @emotion/react @emotion/styled
-  npm start
+3. Activate the frontend  
+  cd frontend  
+  npm install web-vitals  
+  npm install @mui/material @emotion/react @emotion/styled  
+  npm start  
