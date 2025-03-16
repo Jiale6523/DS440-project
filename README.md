@@ -4,8 +4,9 @@ The origin model is from https://github.com/jovialniyo93/red_wine_quality_predic
 We designed the front-end and back-end based on this model. The project includes the front-end and back-end developed based on JavaScript.
 Make sure you have JavaScript-related components in your environment before use.
 
-Please follow the steps below to start
-1. Activate the backend  
+Please follow the steps below to start  
+1. Unzip the file Wine predict; the file is a bit large; please be patient.  
+2. Activate the backend  
   cd .\backend\
     pip install -r requirements.txt  
     python app.py
@@ -15,3 +16,4 @@ Please follow the steps below to start
   npm install web-vitals  
   npm install @mui/material @emotion/react @emotion/styled  
   npm start  
+4. Use the table as the real world example
