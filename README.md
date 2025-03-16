@@ -12,7 +12,7 @@ Please follow the steps below to start
     python app.py
 
 3. Activate the frontend  
-  cd frontend  
+  cd .\frontend  
   npm install web-vitals  
   npm install @mui/material @emotion/react @emotion/styled  
   npm start  
