@@ -35,4 +35,9 @@ Please follow the steps below to start
   npm install web-vitals  
   npm install @mui/material @emotion/react @emotion/styled  
   npm start  
-4. Use the table as the real world example
+4. Use the table as the real world example    
+    
+    
+    
+       
+If doesn't work, try to roll back the numpy using pip install numpy==1.26.4
