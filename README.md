@@ -35,7 +35,7 @@ Please follow the steps below to start
   npm install web-vitals  
   npm install @mui/material @emotion/react @emotion/styled  
   npm start  
-4. Use the table as the real world example    
+   
     
     
     
