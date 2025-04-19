@@ -25,8 +25,8 @@ We designed the front-end and back-end based on this model. This project include
 
 Please follow the steps below to start  
 1. Unzip the file Wine predict; the file is a bit large; please be patient.
-2. Setting Up Virtual Environments in Python 3.11
-3. Install js.node componts. Check if you have C++ compiler installed, if not install it.
+2. Check your Python version; if it is higher than 3.20, you need to set up Virtual Environments in Python 3.11.
+3. Install js.node componts. Check if you have a C++ compiler installed. If not, install one.
 4. Activate the backend  
   cd .\backend\
     pip install -r requirements.txt  
