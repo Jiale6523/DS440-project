@@ -24,13 +24,15 @@ We designed the front-end and back-end based on this model. This project include
 
 
 Please follow the steps below to start  
-1. Unzip the file Wine predict; the file is a bit large; please be patient.  
-2. Activate the backend  
+1. Unzip the file Wine predict; the file is a bit large; please be patient.
+2. Setting Up Virtual Environments in Python 3.1.1.
+3. Install js.node componts. Check if you have C++ compiler installed, if not install it.
+4. Activate the backend  
   cd .\backend\
     pip install -r requirements.txt  
     python app.py
 
-3. Activate the frontend  
+5. Activate the frontend  
   cd .\frontend  
   npm install web-vitals  
   npm install @mui/material @emotion/react @emotion/styled  
