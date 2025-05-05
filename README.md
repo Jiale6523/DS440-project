@@ -43,3 +43,4 @@ Please follow the steps below to start
     
        
 If doesn't work, try to roll back the numpy using pip install numpy==1.26.4
+We recommend running the program in a Windows environment, and if you follow the instructions, it should work fine in Windows. We tried running it in a Mac, and there were probably issues that we couldn't resolve.
